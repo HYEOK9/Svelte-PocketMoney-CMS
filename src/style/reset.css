@@ -1,0 +1,60 @@
+html,
+body,
+section,
+div,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+a,
+img,
+ul,
+li,
+button,
+fieldset,
+form,
+label,
+table,
+tr,
+th,
+td,
+canvas,
+nav {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+}
+
+menu,
+nav,
+section {
+  display: block;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+}
+
+th,
+td {
+  text-align: center !important;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border-style: none;
+  background-color: inherit;
+}
