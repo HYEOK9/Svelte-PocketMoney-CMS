@@ -1,24 +1,9 @@
 # 캐시닥 용돈퀴즈 CMS
 
-### [용돈퀴즈 CMS](https://cms-pocket-money-quiz.vercel.app)
-
-<br/>
-
-### [Histoire(storybook)](https://main.d1b5y897ri7b9s.amplifyapp.com/)
-
-<br/>
-
-### [Swagger](http://cashdoc-quiz-api-test.ap-northeast-2.elasticbeanstalk.com/api#/)
-
-<br/>
-
-<br/>
-
 - svelte
 - smui
 - pnpm
 
-<br/>
 
 ## histoire (storybook)
 
