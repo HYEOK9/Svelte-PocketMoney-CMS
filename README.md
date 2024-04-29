@@ -1,4 +1,5 @@
 # 캐시닥 용돈퀴즈 CMS
+![image](https://github.com/HYEOK9/Svelte-study/assets/87190744/02596fac-f217-493f-aacf-ba801571a66b)
 
 - svelte
 - smui
